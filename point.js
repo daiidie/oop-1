@@ -1,3 +1,4 @@
+/*
 class Point {
   constructor(x, y) {
     this.x = x
@@ -23,3 +24,8 @@ const p2 = new Point(10, 11)
 
 p1.isEqual(p2) // return false
 p1.show(p1) // print '(10, 11)'
+
+
+
+
+*/
